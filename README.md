@@ -17,3 +17,4 @@ I referenced [openmpi's API](https://mpitutorial.com/tutorials/) when writing th
     - `make` or `make all` , it will build the binary file
     - `make test`, it will execute the examples
  
+ **All the new added functions are in `ncclEnhance.h`**
